@@ -1,0 +1,2 @@
+1. Linking the external library to the project. https://community.st.com/s/question/0D50X0000BJ2gL4SQJ/how-to-add-external-libraries-in-stm32cubeide
+
